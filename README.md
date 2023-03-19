@@ -19,10 +19,10 @@ I'm Parth Gupta, a Passionate Learner from India.
 
 I have experience in Artificial Intelligence, Machine Learning, Web Development, Software Engineering.
 
-📫 How to reach me **pg6272695@gmail.com**
+📫 How to reach me **[ParthGupta-28](pg6272695@gmail.com)**
 
 
-👨‍💻 All of my projects are available at [ParthGupta-28](https://parthgupta-28-github-io.vercel.app/)
+👨‍💻 All of my projects are available at [https://parthgupta-28-github-io](https://parthgupta-28-github-io.vercel.app/)
 <br/><br/>
 
 ### 🤝 Connect with me
